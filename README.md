@@ -13,4 +13,4 @@ microsservices-in-python
 - Creating Helm Chart
 
 # Notas
-- Nao funcionou do jeito esperado... o minikube que o tutorial que eu tava seguindo nao funciona em maquinas virtuais. nao queria mexer nas confs do windows pra nao parar a maquina virtual da firma... 
+- Nao funcionou do jeito esperado. O Minikube na'o funciona em maquinas virtuais e mexer nas configuracoes de VM do windows host poderia comprometer minhas outras atividades em outras maquinas, nao vale o risco. Mas a ideia do minikube parece legal... porem da pra fazer sem, foco no Docker pras proximas
