@@ -11,3 +11,6 @@ microsservices-in-python
 - Writing docker compose file 
 - Writing kubernets manifest files for the app
 - Creating Helm Chart
+
+# Notas
+- Nao funcionou do jeito esperado... o minikube que o tutorial que eu tava seguindo nao funciona em maquinas virtuais. nao queria mexer nas confs do windows pra nao parar a maquina virtual da firma... 
